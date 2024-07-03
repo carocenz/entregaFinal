@@ -1,0 +1,21 @@
+{
+    "logIn": {
+        "user": "pushingit",
+        "password": "123456!"
+    },
+
+    "shoppingCart": [
+        {
+          "productName": "Buzo Negro",
+          "unitPrice": 23.76,
+          "productAmount": 1,
+          "totalPrice": 23.76
+        },
+        {
+          "productName": "Zapatillas Azules",
+          "unitPrice": 30.33,
+          "productAmount": 1,
+          "totalPrice": 30.33
+        }
+      ]
+}
